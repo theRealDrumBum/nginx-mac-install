@@ -1,0 +1,12 @@
+This is a total work in progress.
+
+My goal is to create a simple bash script to compile and install:
+
+- nginx
+- pcre libraries
+- geoip
+- geip data
+- upstream hasing module
+
+Goal is to focus on installation on a mac as I would later like to use this
+as a dev environment init script. 
